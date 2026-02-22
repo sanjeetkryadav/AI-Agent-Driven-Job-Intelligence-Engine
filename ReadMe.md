@@ -2,7 +2,8 @@
 
 **CareerAgent AI** is an intelligent, agentic automation workflow built on **n8n**. It eliminates the manual effort of job searching by autonomously discovering roles, analyzing them against your resume using **Google Gemini (LLM)**, and delivering high-quality leads directly to your Telegram.
 
-
+## Workflow
+image.png
 
 ## 🚀 How It Works
 1. **Trigger:** The workflow is triggered via a Telegram message containing your resume.
